@@ -107,22 +107,6 @@
 - [Styled JSX](https://nextjs.org/blog/styling-next-with-styled-jsx)
 
 <br/>
-
-## 3. IT 기업별 CSS Style
-
-| 기업       | CSS-IN-CSS | CSS-IN-JS | CSS Framework |
-| :--------- | :--------: | :-------: | :-----------: |
-| 네이버     |            |           |               |
-| 카카오     |            |           |               |
-| 라인       |            |           |               |
-| 쿠팡       |            |           |               |
-| 배달의민족 |            |           |               |
-| 당근마켓   |            |           |               |
-| 토스       |            |           |               |
-| 직방       |            |           |               |
-| 야놀자     |            |           |               |
-
-<br/>
 <br/>
 
 ## Reference
