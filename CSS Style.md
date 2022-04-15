@@ -70,8 +70,10 @@
   |    cssfmt    | stylelint 규칙에 맞게 포맷을 변경한다.                           |
   |  preset-env  | 최신 CSS문법을 설정한 브우저가 이해할 수 있는 버전으로 변환한다. |
 
-- Sass와 PostCSS는 실행 시점이나 방법이 다르기 때문에 한 프로젝트에 둘 다 적용할 수 있습니다.
-- 동시에 사용하는 경우, Scss로 작성된 파일이 컴파일을 통해 CSS로 변환되고, CSS는 다시 PostCSS 플러그인(패키지)에 의해 최종 변환됩니다.
+<br/>
+
+> **Sass와 PostCSS는 실행 시점이나 방법이 다르기 때문에 한 프로젝트에 둘 다 적용할 수 있습니다.**  
+> **CSS로 작성된 파일이 컴파일을 통해 CSS로 변환되고, CSS는 다시 PostCSS 플러그인(패키지)에 의해 최종 변환됩니다.**
 
 <br/>
 
@@ -89,14 +91,14 @@
 
 ## 2. CSS-IN-JS
 
-## 2-1) CSS-IN-JS 란?
+### 2-1) CSS-IN-JS 란?
 
 - 자바스크립트를 사용하여 구성 요소의 스타일을 지정하는 스타일 지정 기술
 - 자바스크립트가 구문 분석되면 CSS가 생성되어 DOM에 첨부됨.
 
 <br/>
 
-## 2-2) CSS-IN-JS 종류
+### 2-2) CSS-IN-JS 종류
 
 - [vanilla-extract](https://vanilla-extract.style/)
 - CSS Modules
@@ -119,6 +121,9 @@
 | 토스       |            |           |               |
 | 직방       |            |           |               |
 | 야놀자     |            |           |               |
+
+<br/>
+<br/>
 
 ## Reference
 
