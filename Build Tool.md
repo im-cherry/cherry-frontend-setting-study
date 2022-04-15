@@ -3,7 +3,9 @@
 ## 1. Module Bundler
 
 ![image](https://user-images.githubusercontent.com/100753621/163428174-ec16eec8-e300-4c30-aef7-cb14f79211ad.png)  
-_이미지 출처 : https://joshua1988.github.io/webpack-guide/webpack/what-is-webpack.html#%EC%9B%B9%ED%8C%A9%EC%97%90%EC%84%9C%EC%9D%98-%EB%AA%A8%EB%93%88_
+_이미지 출처 : https://joshua1988.github.io/webpack-guide/webpack/what-is-webpack.html#%EC%9B%B9%ED%8C%A9%EC%97%90%EC%84%9C%EC%9D%98-%EB%AA%A8%EB%93%88_  
+
+<br />
 
 ### 1-1) Module Bundler 란?
 
